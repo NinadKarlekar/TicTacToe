@@ -2,5 +2,6 @@
 
 Steps:-
 
-Install numpy from cmd
+Install numpy from cmd  
 command:- pip install numpy
+
