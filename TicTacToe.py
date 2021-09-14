@@ -133,7 +133,7 @@ class Tic_Tac_Toe:
             text=score_text,
         )
 
-        score_text =  "Player 1 (X) : " + str(self.X_score) + "\n"
+        score_text = "Player 1 (X) : " + str(self.X_score) + "\n"
         score_text += "Player 2 (O) : " + str(self.O_score) + "\n"
         score_text += "Tie                : " + str(self.tie_score)
         self.canvas.create_text(
